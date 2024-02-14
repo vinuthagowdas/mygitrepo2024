@@ -1,2 +1,4 @@
 commit2
 new line
+
+new line added using merge coflict
